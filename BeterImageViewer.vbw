@@ -1,0 +1,7 @@
+ImageBrowser = 104, 104, 623, 479, Z, 26, 26, 545, 401, 
+FileHandlingRoutines = 0, 0, 0, 0, C
+ProgressBarModule = 0, 0, 0, 0, C
+TrapMouse = 0, 0, 0, 0, C
+ImageDisplay = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FormTrix = 0, 0, 0, 0, C
+About = 0, 0, 0, 0, C, 0, 0, 0, 0, C
